@@ -9,7 +9,7 @@
 Sou estudante de **Ciência da Computação** pela **UERN** e **Técnica em Informática** formada pelo **IFRN**.  
 Sou movida pela **criatividade** e gosto de tudo o que envolve arte — música, fotografia, escrita e criação em geral.
 
-Atualmente, estou estudando **desenvolvimento de jogos** e **modelagem 3D**, buscando unir lógica e criatividade em projetos práticos.
+Atualmente, estou estudando aperfeiçoando o meu conhecimento em **desenvolvimento web**, buscando unir lógica e criatividade em projetos práticos.
 
 ---
 
